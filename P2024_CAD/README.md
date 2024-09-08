@@ -1,5 +1,5 @@
-Cálculo diferencial Cuatrimestre P2024
-======================================
+Cálculo Diferencial P2024
+=========================
 
 En este apartado encontrarás las listas de ejercicios complementarios, llamados Ejercicios Para el Café. 
 
